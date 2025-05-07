@@ -17,7 +17,7 @@ cd ping
 2. Add your `user_id` to it:
 
 ```
-user_id=YOUR_USER_ID
+USER_ID=YOUR_USER_ID
 ```
 
 Replace `YOUR_USER_ID` with your actual ID (see methods below to find it).
